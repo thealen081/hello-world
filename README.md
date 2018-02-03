@@ -1,2 +1,2 @@
 # hello-world
-A simple website in development, or is it?
+A simple website (not for long) in development
